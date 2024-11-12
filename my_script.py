@@ -1,3 +1,3 @@
 # This is my very important script 
 
-print("Labas, Pasauli")
+print("Any additional point for not giving up ?")
