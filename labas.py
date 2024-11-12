@@ -1,1 +1,1 @@
-print("ka tu")
+print("Labassssssssssssssss")
